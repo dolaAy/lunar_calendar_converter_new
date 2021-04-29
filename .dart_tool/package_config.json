@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "lunar_calendar_converter_new",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2021-04-29T06:41:47.549757Z",
+  "generator": "pub",
+  "generatorVersion": "2.12.2"
+}
